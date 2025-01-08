@@ -1,4 +1,4 @@
-##Submitted by DINESH R ANANTH S DHIVYA S DINESH A MANJUSRI T  College Name :ALAGAPPA CHETTIYAR GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY ## 
+##Submitted by DINESH R ANANTH S DHIVYA S DINESH A MANJUSRI T  College Name :ALAGAPPA CHETTIYAR GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY  KARAIKUDI -630003## 
 ## Architecture
 
 ![Architecture](https://github.com/aniket-somwanshi/ai-based-quality-control/blob/master/Resources/architecture.jpeg)
